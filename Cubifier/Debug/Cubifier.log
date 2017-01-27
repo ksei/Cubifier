@@ -1,0 +1,53 @@
+﻿Build started 5/7/2016 4:01:06 PM.
+     1>Project "C:\Users\Ksandros\Documents\Education\AUBG\COS & INF\COS 221 Fundamental Data Structurres\Project\Cubifier\Cubifier\Cubifier.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BControlled_Tile.cpp Button_Tile.cpp Cuboid.cpp Empty_Tile.cpp Game.cpp GameFinished.cpp GameLost.cpp GameWon.cpp MainMenu.cpp POButton_Tile.cpp PositionOriented_Tile.cpp Regular_Tile.cpp Source.cpp Welcome.cpp Winning_Tile.cpp
+         Winning_Tile.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\winning_tile.cpp(30): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Welcome.cpp
+         Source.cpp
+         Regular_Tile.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\regular_tile.cpp(33): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         PositionOriented_Tile.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\positionoriented_tile.cpp(30): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         POButton_Tile.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\pobutton_tile.cpp(31): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         MainMenu.cpp
+         GameWon.cpp
+         GameLost.cpp
+         GameFinished.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\gamefinished.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+         Game.cpp
+         Empty_Tile.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\empty_tile.cpp(32): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Cuboid.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\cuboid.cpp(165): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\cuboid.cpp(169): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\cuboid.cpp(186): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Button_Tile.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\button_tile.cpp(31): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         BControlled_Tile.cpp
+     1>c:\users\ksandros\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\bcontrolled_tile.cpp(31): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ksandros\Documents\Education\AUBG\COS & INF\COS 221 Fundamental Data Structurres\Project\Cubifier\Debug\Cubifier.exe" /INCREMENTAL /NOLOGO "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ksandros\Documents\Education\AUBG\COS & INF\COS 221 Fundamental Data Structurres\Project\Cubifier\Debug\Cubifier.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ksandros\Documents\Education\AUBG\COS & INF\COS 221 Fundamental Data Structurres\Project\Cubifier\Debug\Cubifier.lib" /MACHINE:X86 Debug\BControlled_Tile.obj
+         Debug\Button_Tile.obj
+         Debug\Cuboid.obj
+         Debug\Empty_Tile.obj
+         Debug\Game.obj
+         Debug\GameFinished.obj
+         Debug\GameLost.obj
+         Debug\GameWon.obj
+         Debug\MainMenu.obj
+         Debug\POButton_Tile.obj
+         Debug\PositionOriented_Tile.obj
+         Debug\Regular_Tile.obj
+         Debug\Source.obj
+         Debug\Welcome.obj
+         Debug\Winning_Tile.obj
+     1>sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "C:\Users\Ksandros\Documents\Education\AUBG\COS & INF\COS 221 Fundamental Data Structurres\Project\Cubifier\Cubifier\Cubifier.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:18.20

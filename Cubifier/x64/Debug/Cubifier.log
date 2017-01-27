@@ -1,0 +1,31 @@
+﻿  Winning_Tile.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\tile.h(1): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  Welcome.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\welcome.h(2): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  Source.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\source.cpp(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Regular_Tile.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\tile.h(1): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  PositionOriented_Tile.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\tile.h(1): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  POButton_Tile.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\tile.h(1): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  MainMenu.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\mainmenu.h(3): fatal error C1083: Cannot open include file: 'SFML\Window.hpp': No such file or directory
+  GameWon.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\gamewon.h(3): fatal error C1083: Cannot open include file: 'SFML\Window.hpp': No such file or directory
+  GameLost.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\gamelost.h(3): fatal error C1083: Cannot open include file: 'SFML\Window.hpp': No such file or directory
+  GameFinished.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\gamefinished.h(3): fatal error C1083: Cannot open include file: 'SFML\Window.hpp': No such file or directory
+  Game.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\game.h(2): fatal error C1083: Cannot open include file: 'SFML/Window.hpp': No such file or directory
+  Empty_Tile.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\tile.h(1): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  Cuboid.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\cuboid.cpp(1): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  Button_Tile.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\tile.h(1): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  BControlled_Tile.cpp
+d:\libraries\documents\education\aubg\cos & inf\cos 221 fundamental data structurres\project\cubifier\cubifier\tile.h(1): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  Generating Code...
